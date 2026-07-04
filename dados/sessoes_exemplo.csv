@@ -1,0 +1,91 @@
+aluno,idade,regiao,ferramenta,sessao_num,minutos,etapas_concluidas,pediu_ajuda
+A01,8,Centro-Oeste,Code.org,1,40,1,0
+A01,8,Centro-Oeste,Roblox Studio,2,53,1,0
+A01,8,Centro-Oeste,Roblox Studio,3,54,2,1
+A02,12,Norte,Code.org,1,27,6,1
+A02,12,Norte,Roblox Studio,2,48,4,1
+A02,12,Norte,microStudio,3,51,1,0
+A03,8,Centro-Oeste,Code.org,1,21,3,0
+A03,8,Centro-Oeste,microStudio,2,50,3,1
+A03,8,Centro-Oeste,Roblox Studio,3,68,4,1
+A04,8,Sudeste,Roblox Studio,1,40,3,0
+A04,8,Sudeste,Roblox Studio,2,36,3,1
+A04,8,Sudeste,GDevelop,3,52,1,0
+A05,13,Norte,Roblox Studio,1,38,5,1
+A05,13,Norte,Code.org,2,24,5,0
+A05,13,Norte,microStudio,3,29,5,0
+A06,13,Sul,Roblox Studio,1,50,3,1
+A06,13,Sul,microStudio,2,42,5,0
+A06,13,Sul,Roblox Studio,3,60,3,1
+A07,9,Centro-Oeste,Roblox Studio,1,34,3,1
+A07,9,Centro-Oeste,Roblox Studio,2,34,2,0
+A07,9,Centro-Oeste,microStudio,3,26,4,1
+A08,13,Sul,microStudio,1,15,5,0
+A08,13,Sul,Roblox Studio,2,61,4,0
+A08,13,Sul,microStudio,3,51,6,0
+A09,11,Norte,Code.org,1,38,5,0
+A09,11,Norte,Code.org,2,26,5,1
+A09,11,Norte,Code.org,3,34,3,0
+A10,13,Centro-Oeste,GDevelop,1,49,5,0
+A10,13,Centro-Oeste,Roblox Studio,2,44,2,0
+A10,13,Centro-Oeste,Roblox Studio,3,36,4,0
+A11,12,Centro-Oeste,Code.org,1,23,6,1
+A11,12,Centro-Oeste,microStudio,2,30,5,1
+A11,12,Centro-Oeste,GDevelop,3,29,6,0
+A12,8,Norte,microStudio,1,23,0,0
+A12,8,Norte,Code.org,2,23,3,1
+A12,8,Norte,microStudio,3,49,3,1
+A13,12,Nordeste,GDevelop,1,33,4,0
+A13,12,Nordeste,Roblox Studio,2,41,3,1
+A13,12,Nordeste,Roblox Studio,3,65,5,1
+A14,13,Sul,Code.org,1,15,6,0
+A14,13,Sul,Code.org,2,37,6,0
+A14,13,Sul,GDevelop,3,52,6,0
+A15,11,Sul,Roblox Studio,1,53,3,1
+A15,11,Sul,GDevelop,2,40,6,0
+A15,11,Sul,Roblox Studio,3,52,5,0
+A16,11,Norte,microStudio,1,41,2,1
+A16,11,Norte,Code.org,2,39,4,0
+A16,11,Norte,GDevelop,3,51,5,1
+A17,12,Sul,GDevelop,1,47,6,0
+A17,12,Sul,GDevelop,2,31,5,0
+A17,12,Sul,GDevelop,3,49,6,0
+A18,9,Norte,Code.org,1,28,2,1
+A18,9,Norte,Code.org,2,24,4,0
+A18,9,Norte,microStudio,3,45,3,1
+A19,8,Sudeste,microStudio,1,33,3,1
+A19,8,Sudeste,Code.org,2,29,4,0
+A19,8,Sudeste,microStudio,3,37,4,0
+A20,13,Sul,Code.org,1,34,5,0
+A20,13,Sul,Roblox Studio,2,40,5,1
+A20,13,Sul,microStudio,3,48,4,0
+A21,11,Centro-Oeste,microStudio,1,46,4,0
+A21,11,Centro-Oeste,microStudio,2,35,3,0
+A21,11,Centro-Oeste,Code.org,3,31,6,0
+A22,8,Sul,microStudio,1,35,3,0
+A22,8,Sul,GDevelop,2,38,3,1
+A22,8,Sul,microStudio,3,23,2,1
+A23,11,Sul,GDevelop,1,33,5,1
+A23,11,Sul,Roblox Studio,2,43,2,1
+A23,11,Sul,Code.org,3,24,3,0
+A24,11,Centro-Oeste,GDevelop,1,38,5,0
+A24,11,Centro-Oeste,Roblox Studio,2,50,5,0
+A24,11,Centro-Oeste,Code.org,3,39,4,0
+A25,12,Centro-Oeste,microStudio,1,26,3,1
+A25,12,Centro-Oeste,Code.org,2,26,5,1
+A25,12,Centro-Oeste,GDevelop,3,37,4,0
+A26,11,Centro-Oeste,GDevelop,1,32,4,0
+A26,11,Centro-Oeste,microStudio,2,30,5,0
+A26,11,Centro-Oeste,Roblox Studio,3,63,3,1
+A27,9,Sudeste,GDevelop,1,37,3,1
+A27,9,Sudeste,Roblox Studio,2,54,2,1
+A27,9,Sudeste,microStudio,3,34,3,0
+A28,8,Norte,GDevelop,1,45,1,1
+A28,8,Norte,Code.org,2,38,3,0
+A28,8,Norte,GDevelop,3,47,4,1
+A29,11,Centro-Oeste,microStudio,1,30,5,0
+A29,11,Centro-Oeste,GDevelop,2,44,6,0
+A29,11,Centro-Oeste,microStudio,3,46,5,0
+A30,13,Norte,Roblox Studio,1,54,4,0
+A30,13,Norte,GDevelop,2,40,6,0
+A30,13,Norte,GDevelop,3,52,6,0
