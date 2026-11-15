@@ -35,7 +35,7 @@ Ou abra direto no navegador pelo próprio GitHub (o notebook renderiza na págin
 
 ## ⚖️ Nota ética (leia antes de usar com dados reais)
 
-Dados de crianças são dados **sensíveis por natureza**. Se você adaptar este fluxo para sua turma:
+Dados de crianças pedem **proteção reforçada**. A LGPD não os inclui na lista de dados sensíveis (art. 5º, II), mas dedica a eles um artigo próprio, que impõe regras mais rígidas de tratamento. Se você adaptar este fluxo para sua turma:
 
 1. **LGPD, art. 14** — o tratamento de dados de crianças exige consentimento específico de ao menos um dos pais/responsável e deve atender ao melhor interesse da criança.
 2. **Anonimize na coleta**, não depois — nunca registre nomes, apenas códigos.
