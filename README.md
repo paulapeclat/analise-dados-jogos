@@ -1,5 +1,7 @@
 # 🎮📊 Análise de Dados de Jogos na Educação
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24238293.svg)](https://doi.org/10.5281/zenodo.24238293)
+
 > Como dados de sessões de criação de jogos podem informar decisões pedagógicas — um caderno Jupyter reproduzível, com dados sintéticos.
 
 **Autora:** [Paula Peclat](https://github.com/paulapeclat) · [APedê Digital](https://paulapeclat.com.br)
