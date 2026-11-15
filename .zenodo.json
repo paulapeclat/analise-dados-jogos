@@ -1,0 +1,30 @@
+{
+  "title": "Análise de dados de jogos na educação: caderno Jupyter didático com dados sintéticos",
+  "upload_type": "software",
+  "description": "<p>Caderno Jupyter reproduzível que percorre 90 sessões sintéticas de criação de jogos (Code.org, GDevelop, microStudio e Roblox Studio) e mostra como esses vestígios podem orientar decisões pedagógicas a serviço da criança e não da vigilância. Inclui dicionário de dados e nota ética sobre dados de crianças à luz do art. 14 da LGPD.</p>",
+  "creators": [
+    {
+      "name": "Peclat, Paula",
+      "affiliation": "Educação Tecnológica Paula Peclat",
+      "orcid": "0009-0008-6535-7090"
+    }
+  ],
+  "license": "mit",
+  "language": "por",
+  "keywords": [
+    "jupyter",
+    "python",
+    "dados educacionais",
+    "jogos digitais",
+    "LGPD",
+    "infância",
+    "learning analytics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/paulapeclat/analise-dados-jogos",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
